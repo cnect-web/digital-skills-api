@@ -2,5 +2,5 @@
 Digital Skills website. API Documentation
 
 ## Documentation
-- [Wordpress](https://skounis.github.io/dsi-api/wp/curl/)
-- [Drupal](/https://skounis.github.io/dsi-api/d8/curl/)
+- [Wordpress](https://cnect-web.github.io/digital-skills-api/wp/curl/)
+- [Drupal](https://cnect-web.github.io/digital-skills-api/d8/)
